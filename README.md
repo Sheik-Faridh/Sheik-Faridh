@@ -10,8 +10,8 @@
 <p align="center">
 <br>
 
-<a href="https://www.linkedin.com/in/sheik-faridh-5694a7137/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:faridh.nousadh@gmail.com?subject=Hello%20Sheik"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+ <a href="https://www.linkedin.com/in/sheik-faridh-5694a7137/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="www.linkedin.com/in/sheik-faridh-5694a7137/" height="30" width="40" /></a>&nbsp;
+<a href="mailto:faridh.nousadh@gmail.com?subject=Hello%20Sheik"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="40" alt="Gmail"/></a>&nbsp;
 </p>
 
 <br>
