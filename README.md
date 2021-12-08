@@ -10,7 +10,7 @@
 <p align="center">
 <br>
 
-<a href="https://www.linkedin.com/in/sheik-faridh-5694a7137/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="www.linkedin.com/in/sheik-faridh-5694a7137/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/sheik-faridh-5694a7137/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="www.linkedin.com/in/sheik-faridh-5694a7137/" height="40" width="40" /></a>&nbsp;
 <a href="mailto:faridh.nousadh@gmail.com?subject=Hello%20Sheik"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" width="40" alt="Gmail"/></a>
 </p>
 
@@ -19,7 +19,7 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ### I am a Full Stack Developer
-- 💻 SDE @ <a target="_blank" href="https://qburst.com">QBurst </a>
+- 💻 SDE @ <a target="blank" href="https://qburst.com">QBurst </a>
 - 🌱 I’m currently working on Web Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
