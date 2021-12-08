@@ -1,4 +1,4 @@
- [![Matrix SVG](https://c.tenor.com/crNkPq4HPNgAAAAC/blue-code.gif)]
+<img src="https://c.tenor.com/crNkPq4HPNgAAAAC/blue-code.gif" width="100%" alt="Matrix GIF" />
 <p>
   <h1 align="center"><b>Hello there, I'm Sheik Faridh</b><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 </p>
