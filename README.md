@@ -1,4 +1,4 @@
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+ [![Matrix SVG](https://c.tenor.com/crNkPq4HPNgAAAAC/blue-code.gif)]
 <p>
   <h1 align="center"><b>Hello there, I'm Sheik Faridh</b><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 </p>
@@ -6,10 +6,10 @@
 <p>
   <h4 align="center"><b><i>"Make it work, make it right, make it fast."</i></b></h4>
 </p>
-
-<p align="center">
 <br>
 
+<p align="center">
+<h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/sheik-faridh-5694a7137/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="www.linkedin.com/in/sheik-faridh-5694a7137/" height="40" width="40" /></a>&nbsp;
 <a href="mailto:faridh.nousadh@gmail.com?subject=Hello%20Sheik"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" width="40" alt="Gmail"/></a>
 </p>
